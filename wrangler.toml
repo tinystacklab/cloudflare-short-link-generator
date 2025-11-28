@@ -1,0 +1,8 @@
+name = "short-link-generator"
+main = "src/index.js"
+compatibility_date = "2023-12-01"
+
+[[kv_namespaces]]
+binding = "LINKS_KV"
+id = "your kv id"
+preview_id = "your kv id"
